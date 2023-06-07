@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1686141345 source:c:\users\cosmin\onedrive\desktop\c++\ferma_utilaje\main.cpp
+	<iostream>
+	<string>
+	"Utilaj.h"
+	"Operator.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	<fstream>
+	"Gestionare_Fisier_Utilaje.h"
+	"Gestionare_Operatori_Fisier.h"
+
+1686131702 source:c:\users\cosmin\onedrive\desktop\c++\ferma_utilaje\src\operator.cpp
+	"Operator.h"
+	<sstream>
+
+1686131689 c:\users\cosmin\onedrive\desktop\c++\ferma_utilaje\include\operator.h
+	<string>
+
+1686128015 source:c:\users\cosmin\onedrive\desktop\c++\ferma_utilaje\src\utilaj.cpp
+	"Utilaj.h"
+	<string>
+	<sstream>
+	<fstream>
+	<vector>
+
+1686128015 c:\users\cosmin\onedrive\desktop\c++\ferma_utilaje\include\utilaj.h
+	<string>
+	<iostream>
+	<vector>
+
+1686132275 c:\users\cosmin\onedrive\desktop\c++\ferma_utilaje\gestionare_fisier_utilaje.h
+	<iostream>
+	<string>
+	"Utilaj.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	<fstream>
+
+1686135585 c:\users\cosmin\onedrive\desktop\c++\ferma_utilaje\gestionare_operatori_fisier.h
+	<fstream>
+	<vector>
+	"Operator.h"
+

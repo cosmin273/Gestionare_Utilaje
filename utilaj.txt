@@ -1,0 +1,23 @@
+12345;Tractor;Agricol;Rosu;John Deere;200;50;1000
+98765;Combine;Agricol;Verde;Case IH;500;300;2500
+56789;Excavator;Constructii;Galben;Caterpillar;1000;200;0
+12346;Tractor;Agricol;Rosu;John Deere;200;50;1000
+98765;Combine;Agricol;Verde;Case IH;500;400;2500
+56789;Excavator;Constructii;Galben;Caterpillar;1000;200;0
+23456;Buldozer;Constructii;Portocaliu;Komatsu;800;150;5000
+67890;Plug;Agricol;Negru;Kverneland;100;20;50
+34567;Ravasitoare;Agricol;Albastru;Maschio;300;60;800
+87654;Fertilizator;Agricol;Gri;Amazone;400;80;1200
+43210;Semanatoare;Agricol;Galben;Gaspardo;600;100;1800
+10987;Ridicator;Constructii;Rosu;Volvo;700;120;4000
+65432;Baler;Agricol;Verde;New Holland;250;50;600
+23457;Excavator;Constructii;Galben;Caterpillar;1500;300;0
+78901;Plug;Agricol;Negru;Kverneland;120;25;60
+45678;Ravasitoare;Agricol;Albastru;Maschio;400;80;1000
+87655;Fertilizator;Agricol;Gri;Amazone;350;70;1100
+54321;Semanatoare;Agricol;Galben;Gaspardo;550;90;1600
+21098;Ridicator;Constructii;Rosu;Volvo;800;150;3500
+76543;Baler;Agricol;Verde;New Holland;300;60;800
+87656;Tractor;Agricol;Rosu;John Deere;250;50;1000
+34568;Combine;Agricol;Verde;Case IH;600;400;2500
+90123;Excavator;Constructii;Galben;Caterpillar;1200;250;0
